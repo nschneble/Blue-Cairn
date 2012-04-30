@@ -5,6 +5,7 @@
     <classEntry path="com.njs.bluecairn.events.FaultEvent"/>
     <classEntry path="com.njs.bluecairn.events.ProgressEvent"/>
     <classEntry path="com.njs.bluecairn.responders.IResponder"/>
+    <classEntry path="com.njs.bluecairn.responders.Responder"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>
